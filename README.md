@@ -3,5 +3,5 @@
 一键安装命令
 ```sh
 curl -sSL https://github.com/hddyx/fast-install-novnc/blob/main/install.sh -o install.sh && sudo bash install.sh
-curl -sSL https://github.com/hddyx/fast-install-novnc/blob/main/install.sh
+curl -sSL https://github.com
 ```
